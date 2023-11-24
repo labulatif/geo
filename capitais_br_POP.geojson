@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.824897, -9.975377]
+      },
+      "properties": {
+        "name": "Rio Branco",
+        "population": 400000,
+        "region": "Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.735721, -9.665927]
+      },
+      "properties": {
+        "name": "Maceió",
+        "population": 1000000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.066564, 0.034457]
+      },
+      "properties": {
+        "name": "Macapá",
+        "population": 300000,
+        "region": "Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.025876, -3.113497]
+      },
+      "properties": {
+        "name": "Manaus",
+        "population": 2000000,
+        "region": "Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.501404, -12.971405]
+      },
+      "properties": {
+        "name": "Salvador",
+        "population": 3000000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.543333, -3.717222]
+      },
+      "properties": {
+        "name": "Fortaleza",
+        "population": 2600000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.929169, -15.780148]
+      },
+      "properties": {
+        "name": "Brasília",
+        "population": 3100000,
+        "region": "Centro-Oeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.3128, -20.3155]
+      },
+      "properties": {
+        "name": "Vitória",
+        "population": 800000,
+        "region": "Sudeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.264784, -16.686898]
+      },
+      "properties": {
+        "name": "Goiânia",
+        "population": 1500000,
+        "region": "Centro-Oeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.282073, -2.53874]
+      },
+      "properties": {
+        "name": "São Luís",
+        "population": 1100000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.094894, -15.598915]
+      },
+      "properties": {
+        "name": "Cuiabá",
+        "population": 600000,
+        "region": "Centro-Oeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.629139, -20.448243]
+      },
+      "properties": {
+        "name": "Campo Grande",
+        "population": 800000,
+        "region": "Centro-Oeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.938574, -19.919068]
+      },
+      "properties": {
+        "name": "Belo Horizonte",
+        "population": 2500000,
+        "region": "Sudeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.490179, -1.455778]
+      },
+      "properties": {
+        "name": "Belém",
+        "population": 1500000,
+        "region": "Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.8641, -7.11532]
+      },
+      "properties": {
+        "name": "João Pessoa",
+        "population": 800000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.2733, -25.4284]
+      },
+      "properties": {
+        "name": "Curitiba",
+        "population": 1900000,
+        "region": "Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.8770, -8.047562]
+      },
+      "properties": {
+        "name": "Recife",
+        "population": 2100000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-42.8038, -5.09201]
+      },
+      "properties": {
+        "name": "Teresina",
+        "population": 1200000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.196388, -22.908333]
+      },
+      "properties": {
+        "name": "Rio de Janeiro",
+        "population": 6500000,
+        "region": "Sudeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.211006, -5.794477]
+      },
+      "properties": {
+        "name": "Natal",
+        "population": 900000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.217658, -30.034647]
+      },
+      "properties": {
+        "name": "Porto Alegre",
+        "population": 2800000,
+        "region": "Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.8999, -8.76077]
+      },
+      "properties": {
+        "name": "Porto Velho",
+        "population": 500000,
+        "region": "Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -60.6758, 2.8235]
+      },
+      "properties": {
+        "name": "Boa Vista",
+        "population": 400000,
+        "region": "Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.5480, -27.5954]
+      },
+      "properties": {
+        "name": "Florianópolis",
+        "population": 500000,
+        "region": "Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.633308, -23.550520]
+      },
+      "properties": {
+        "name": "São Paulo",
+        "population": 12000000,
+        "region": "Sudeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.073076, -10.947247]
+      },
+      "properties": {
+        "name": "Aracaju",
+        "population": 600000,
+        "region": "Nordeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -48.324285, -10.24909]
+      },
+      "properties": {
+        "name": "Palmas",
+        "population": 300000,
+        "region": "Norte"
+      }
+    }
+  ]
+}
